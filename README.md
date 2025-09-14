@@ -6,7 +6,7 @@ How to use
 
 copy repository
 ```
-https://github.com/VoidEmptiness/Vibration-Gamepad.git
+git clone https://github.com/VoidEmptiness/Vibration-Gamepad.git
 ```
 Install 
 ```
